@@ -1,2 +1,2 @@
-A website created HTML, CSS, and Javascript
+A website created with HTML, CSS, and Javascript
 
